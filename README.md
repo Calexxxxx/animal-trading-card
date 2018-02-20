@@ -4,6 +4,8 @@ This repo is part of the Udacity Google front-end developer Scholarship.
 
 The goal is to build a card with information about your favorit animal and add styling to this card.
 
+[Live version](https://calexxxxx.github.io/animal-trading-card/)
+
 ### Sources
 1. Information source [Wikipedia](https://en.wikipedia.org/wiki/German_Shepherd)
 2. Images source [Dogtime](http://dogtime.com/)
